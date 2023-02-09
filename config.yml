@@ -1,0 +1,13 @@
+---
+
+tg_token: 5416207397:AAGkVdZbyMFN-USjGwcHby1XmhJNVT30OfI
+storage_config:
+  host: localhost
+  port: 5432
+  database: questionnaire
+  username: postgres
+  password: milana1999
+  maxattempts: 5
+buttons:
+  btstart: 1
+  btnext: 2
